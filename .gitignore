@@ -221,3 +221,6 @@ __marimo__/
 
 # Local datasets
 *.csv
+
+# macOS
+.DS_Store
